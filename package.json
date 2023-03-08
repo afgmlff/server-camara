@@ -1,6 +1,7 @@
 {
   "name": "server-camara",
   "version": "1.0.0",
+  "proxy": "http://localhost:3000/",
   "description": "testes server side pro case técnico",
   "main": "index.js",
   "engines": {
